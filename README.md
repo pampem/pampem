@@ -1,4 +1,4 @@
-![hello-world](./image/hello-world.png)
+![hello](./image/hello.png)
 
 ### Hi there 👋
 Who is this man.
