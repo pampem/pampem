@@ -1,4 +1,18 @@
 ### Hi there 👋
+Who is this man.
+--
+I'm Masashi Izumita.
+
+Tokyo University of Science
+先進工学部　電子システム工学科　B4
+
+I'm working at AIST to automate the forklift.
+
+Thanks for watching this profile.
+
+
+Next year ---> Tsukuba University✨
+
 
 <!--
 **pampem/pampem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
