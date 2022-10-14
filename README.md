@@ -1,6 +1,6 @@
 ### Hi there 👋
--
--I'm Masashi Izumita.
+--
+I'm Masashi Izumita.
 
 Tokyo University of Science
 先進工学部　電子システム工学科　B4
