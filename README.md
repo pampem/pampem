@@ -1,5 +1,5 @@
 ### Hi there 👋
-Who is
+Who is this man.
 --
 I'm Masashi Izumita.
 
