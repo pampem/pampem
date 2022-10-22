@@ -7,7 +7,7 @@ Hello.
 
 I'm at Tokyo University of Science.
 
-I'm working at AIST to automate the forklift.
+Currently I'm working at AIST to automate the forklift.
 
 Thanks for watching this profile.
 
