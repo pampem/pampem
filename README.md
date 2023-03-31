@@ -11,11 +11,7 @@ Currently I'm working at AIST to automate the forklift.
 
 Thanks for watching this profile.
 
-
 Next year ---> Tsukuba University✨
-
-
-To reach me: TW @pampem_
 
 <!--
 **pampem/pampem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
