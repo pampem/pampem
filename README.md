@@ -1,29 +1,12 @@
 ![hello](./image/hello.jpg)
 
-### Hi there 👋
-Who is this man.
---
-Hello.
+Hello World! 👋
+I'm Masashi, a drone researcher currently studying at the AIST & Tsukuba University. My journey in the realm of technology doesn't stop there; I'm also delving into the fields of computer science and engineering. 🚁💻
 
-I'm at Tokyo University of Science.
+Presently, I'm collaborating with the cool minds at AIST on a project to automate forklifts, making warehouses smarter and safer. 🤖🏭
 
-Currently I'm working at AIST to automate the forklift.
+Feel free to delve into my repositories and let's connect to build a tech-savvy future together! 🛠️
 
-Thanks for watching this profile.
+Reach out to me:
+📧 Email: m.izumita (at) aist.go.jp
 
-Next year ---> Tsukuba University✨
-
-<!--
-**pampem/pampem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
