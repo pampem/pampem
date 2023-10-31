@@ -1,6 +1,6 @@
 ![hello](./image/hello.jpg)
 
-### Drone!!! 👋
+### Hello👋
 ---
 
 I'm Masashi Izumita, master student and a drone researcher currently studying at the AIST & Tsukuba University🚁💻
